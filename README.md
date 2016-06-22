@@ -2,7 +2,7 @@
 
 ## 目录
 
-- [测试中文 2016](#测试中文-2016)
+- [测试中文 2016](#测试中文-es2016)
 
 ```js
 it('should pass object with correct values to save', function() {
@@ -20,4 +20,4 @@ it('should pass object with correct values to save', function() {
 });
 ```
 
-## 测试中文 2016
+## 测试中文 ES2016
