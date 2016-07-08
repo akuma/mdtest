@@ -27,15 +27,12 @@ it('should pass object with correct values to save', function() {
 ## Emphasis
 
 *This text will be italic*
-
 _This will also be italic_
 
 ~~This text will be crossed~~
-
 **This text will be bold**
 
 __This will also be bold__
-
 _You **can** combine them_
 
 ## Lists
@@ -52,14 +49,14 @@ _You **can** combine them_
 1. Item 1
 2. Item 2
 3. Item 3
-   * Item 3a
-   * Item 3b
+  * Item 3a
+  * Item 3b
 
 ## Images
 
 Markdown Logo: ![logo][logo]
 
-[logo]: http://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "logo"
+[logo]: https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon48.png "logo"
 
 ## Links
 
@@ -100,4 +97,4 @@ Content in the first column | Content in the second column
 
 ## HTML
 
-<div>This is a html code.</div>
+<div style="color: red;">This is a <strong>html</strong> code.</div>
